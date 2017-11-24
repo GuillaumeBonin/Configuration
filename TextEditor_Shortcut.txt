@@ -1,0 +1,36 @@
+SUBLIME TEXT 3:
+
+Alignment: 		ctrl + alt + a
+Emmet:			ctrl + alt + enter
+Color Picker:		ctrl + shift + c
+Insert Multiple lines: 	ctrl + alt + up / down
+Move line / selection:	ctrl + up / down
+Delete line:		ctrl + shift + k
+Select lines:		shift + up / down
+Select all:		ctrl + a
+Copy:			ctrl + c
+Cut:			ctrl + x
+Paste:			ctrl + v
+Undo:			ctrl + z
+Redo:			ctrl + y
+Search:			ctrl + f
+Search and replace:	ctrl + shift + f
+
+EMACS:
+
+Open file:		ctrl + x, ctrl + f
+Save:			ctrl + x, ctrl + s
+Save all:		ctrl + x, s
+Quit:			ctrl + x, ctrl + c
+Undo:			ctrl + _
+Select lines:		shift + up / down
+Cut selection:		ctrl + w
+Cut Line:		ctrl + k
+Copy:			alt + w
+Paste:			ctrl + y
+Search:			ctrl + s
+Split Hozirontal:	ctrl + x, 2
+Split Vertical:		ctrl + x, 3
+Close splitted window:	ctrl + x, 0
+Maximise splitted:	ctrl + x, 1
+Switch focus:		ctrl + x, o
