@@ -18,5 +18,6 @@ Configuration for SublimeText3, Emacs and Bash
 * Linter
 * SublimeLinter-rubocop
 * JsHint
+* Ruby Slim
 #### Theme:
 * Predawn
